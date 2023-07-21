@@ -1,0 +1,60 @@
+*{
+    margin:0%;
+    padding:1%;
+
+  }
+  body{
+       background-color: black;
+       color: rgb(164, 225, 241);
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 50px;
+       font-style: oblique;
+       
+       background-repeat: no-repeat;
+    
+       
+
+      
+       
+      }
+      .catogorey{
+        margin: 10%;
+        padding:1%;
+        margin-left:50%;
+      
+      }
+     .girls{
+       margin-top: 13%;
+       margin-left: -39%;
+       margin-bottom: 76%;
+       color: brown;
+       position: fixed;
+
+       
+     }
+     .boys{
+      margin-left: 5%;
+      margin-bottom: 0%;
+      margin-top: 13%;
+   position: fixed;
+  
+     }
+   .image{
+position:relative;
+right:100%;
+left:0%;
+width:20%;
+bottom: 100%;
+pointer-events: none;
+}
+
+.image #gm{
+position:fixed;
+top:0;
+right:-100%;
+left:10px;
+width:20%;
+pointer-events: none;
+
+}
+      

@@ -13,6 +13,16 @@ body{
     
 
 }
+ .home {
+    color:white;
+     
+    
+ }
+
+
+     
+
+
 header{
     display: flex;
     justify-content: space-between;
@@ -76,7 +86,7 @@ button{
     border-radius:30px;
 }
 button:hover{
-    background: rgb(255,10,10);
+    background: rgb(10, 190, 255);
 }
 .image{
     position: relative;
@@ -118,4 +128,3 @@ button:hover{
 
 
 }
-
